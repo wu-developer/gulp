@@ -5,7 +5,7 @@ const sass = require('gulp-sass')
 const clean = require('gulp-clean'); 
 const concat = require('gulp-concat'); 
 
-//Logs Message asdfas
+//Logs Message asdfas another one dj 
 
 gulp.task('message', async () => {
     return console.log('Gulp is running...,'); 
